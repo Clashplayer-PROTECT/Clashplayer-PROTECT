@@ -1,5 +1,3 @@
-## Hello 
-
 ## Welcome to the Alibaba cave
 
 <img src="https://media3.giphy.com/media/YYkRMzoxZ4dZAUjUkC/giphy-downsized-large.gif">   
